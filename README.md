@@ -1,4 +1,4 @@
-# LP-s-Double-Echest
+# LP's-Double-Echest
 Allows for players to have double enderchests
 
 LP’s Double Echest
