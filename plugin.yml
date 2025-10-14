@@ -1,9 +1,0 @@
-name: LP's Double Echest
-version: 1.0
-main: com.yourname.lpdoubleechest.LPDoubleEchest
-api-version: 1.21
-author: YourName
-permissions:
-  lpdoubleechest.use:
-    description: Allows player to use LP's Double Echest
-    default: true
